@@ -1,3 +1,7 @@
+## Modificar src/environments/environment.ts
+
+Cambiar para que coincida con tus datos de Firebase.
+
 # CrudAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.2.
