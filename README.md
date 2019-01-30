@@ -1,5 +1,15 @@
-## Modificar src/environments/environment.ts
+# Clonar el proyecto
+```git clone https://github.com/ingfernandorojas/angularPrimerCRUD.git ```
+
+# Posicionarse dentro de la carpeta
+```cd angularPrimerCRUD/```
+
+# Instalar las dependencias
+```npm install package.json```
+
+# Modificar src/environments/environment.ts
 Editar las siguientes líneas
+```
 firebase: {
     apiKey: "",
     authDomain: "",
@@ -8,9 +18,7 @@ firebase: {
     storageBucket: "",
     messagingSenderId: ""
   }
+```
 
-## Instalar las dependencias
-npm install package.json
-
-## Iniciar el servidor
-ng serve -o
+# Iniciar el servidor
+```ng serve -o```
