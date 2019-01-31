@@ -1,5 +1,5 @@
 # Clonar el proyecto
-```git clone https://github.com/ingfernandorojas/angularPrimerCRUD.git ```
+```git clone https://github.com/ingfernandorojas/basicCRUD.git ```
 
 # Posicionarse dentro de la carpeta
 ```cd angularPrimerCRUD/```
