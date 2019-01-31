@@ -2,7 +2,7 @@
 ```git clone https://github.com/ingfernandorojas/basic-crud.git ```
 
 # Posicionarse dentro de la carpeta
-```cd angularPrimerCRUD/```
+```cd basic-crud/```
 
 # Instalar las dependencias
 ```npm install package.json```
